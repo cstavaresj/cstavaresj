@@ -53,10 +53,10 @@ Ex-militar do Exército Brasileiro e estudante de Engenharia de Computação (10
 
 <div align="left">
 
-[![in](https://img.shields.io/badge/-in-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cstavaresj) [![X](https://img.shields.io/badge/-black.svg?logo=X&logoColor=white)](https://x.com/cstavaresj) [![](https://img.shields.io/badge/-39E09B.svg?logo=linktree&logoColor=white)](https://linktr.ee/cstavaresj)
+[![in]([https://img.shields.io/badge/-in-blue.svg?logo=linkedin&logoColor=white](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg))](https://www.linkedin.com/in/cstavaresj) [![X](https://img.shields.io/badge/-black.svg?logo=X&logoColor=white)](https://x.com/cstavaresj) [![]([https://img.shields.io/badge/-39E09B.svg?logo=linktree&logoColor=white](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg))](https://linktr.ee/cstavaresj)
+
 
 </div>
-
 
 ###
 
