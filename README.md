@@ -53,10 +53,19 @@ Ex-militar do Exército Brasileiro e estudante de Engenharia de Computação (10
 
 <div align="left">
 
-[![in]([https://img.shields.io/badge/-in-blue.svg?logo=linkedin&logoColor=white](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg))](https://www.linkedin.com/in/cstavaresj) [![X](https://img.shields.io/badge/-black.svg?logo=X&logoColor=white)](https://x.com/cstavaresj) [![]([https://img.shields.io/badge/-39E09B.svg?logo=linktree&logoColor=white](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg))](https://linktr.ee/cstavaresj)
-
+<a href="https://www.linkedin.com/in/cstavaresj" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="24" style="margin-right: 8px;" />
+</a>
+<a href="https://x.com/cstavaresj" target="_blank">
+  <img src="https://img.shields.io/badge/-black.svg?logo=X&logoColor=white&label=" height="24" style="margin-right: 8px;" />
+</a>
+<a href="https://linktr.ee/cstavaresj" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" height="24" />
+</a>
 
 </div>
+
+
 
 ###
 
