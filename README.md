@@ -50,16 +50,17 @@ Ex-militar do Exército Brasileiro e estudante de Engenharia de Computação (10
 <div align="left">
 
 <a href="https://www.linkedin.com/in/cstavaresj" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="24" style="margin-right: 15px; vertical-align: middle;" />
-</a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="24" />
+</a>&nbsp;&nbsp;&nbsp;
 <a href="https://x.com/cstavaresj" target="_blank">
-  <img src="https://img.shields.io/badge/-black.svg?logo=X&logoColor=white&label=" height="24" style="margin-right: 15px; vertical-align: middle;" />
-</a>
+  <img src="https://img.shields.io/badge/-black.svg?logo=X&logoColor=white&label=" height="24" />
+</a>&nbsp;&nbsp;&nbsp;
 <a href="https://linktr.ee/cstavaresj" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" height="24" style="vertical-align: middle;" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" height="24" />
 </a>
 
 </div>
+
 
 
 
