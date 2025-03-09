@@ -4,8 +4,6 @@
 
 Ex-militar do Exército Brasileiro e estudante de Engenharia de Computação (10º período) na Universidade de Uberaba. Atualmente, trabalho como freelancer em web design e edição de vídeos, ajudando empresas a fortalecerem sua presença digital. Busco um estágio na área de tecnologia para concluir a graduação, aplicar meus conhecimentos na prática e contribuir em projetos relevantes que resolvem problemas reais de pessoas e empresas.
 
-
-
 ###
 
 **`Habilidades e Ferramentas`**
@@ -25,7 +23,7 @@ Ex-militar do Exército Brasileiro e estudante de Engenharia de Computação (10
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt="dot-net logo"  />
-  <img width="12" />
+  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
