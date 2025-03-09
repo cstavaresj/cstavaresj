@@ -6,7 +6,7 @@ Ex-militar do Exército Brasileiro e estudante de Engenharia de Computação (10
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cstavaresj&locale=pt-br&hide_title=false&layout=compact&card_width=400&langs_count=12&theme=gotham&hide_border=false" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cstavaresj&locale=pt-br&hide_title=false&layout=compact&card_width=400&langs_count=11&theme=gotham&hide_border=false" height="250" alt="languages graph"  />
 </div>
 
 
@@ -20,8 +20,6 @@ Ex-militar do Exército Brasileiro e estudante de Engenharia de Computação (10
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -29,7 +27,7 @@ Ex-militar do Exército Brasileiro e estudante de Engenharia de Computação (10
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt="dot-net logo"  />
-  <br>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
