@@ -52,10 +52,14 @@ Ex-militar do Exército Brasileiro e estudante de Engenharia de Computação (10
 ###
 
 **`Social`**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cstavaresj)
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B.svg?logo=linktree&logoColor=white)](https://linktr.ee/seu-usuario)
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cstavaresj)  
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cstavaresj)  
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B.svg?logo=linktree&logoColor=white)](https://linktr.ee/cstavaresj)  
+
+</div>
 
 
 ###
