@@ -9,7 +9,7 @@ Ex-militar do Exército Brasileiro e estudante de Engenharia de Computação (10
 ###
 
 **`Habilidades e Ferramentas`**
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -51,19 +51,17 @@ Ex-militar do Exército Brasileiro e estudante de Engenharia de Computação (10
 
 <a href="https://www.linkedin.com/in/cstavaresj" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="24" />
-</a>&nbsp;&nbsp;&nbsp;
+</a>
+<img width="12" />
 <a href="https://x.com/cstavaresj" target="_blank">
   <img src="https://img.shields.io/badge/-black.svg?logo=X&logoColor=white&label=" height="24" />
-</a>&nbsp;&nbsp;&nbsp;
+</a>
+<img width="12" />
 <a href="https://linktr.ee/cstavaresj" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" height="24" />
 </a>
 
 </div>
-
-
-
-
 
 ###
 
