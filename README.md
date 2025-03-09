@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Ex-militar do Exército Brasileiro e estudante de Engenharia de Computação (10º período) na Universidade de Uberaba. Atualmente, trabalho como freelancer em web design e edição de vídeos, ajudando empresas a fortalecerem sua presença digital. Busco um estágio na área de tecnologia para concluir a graduação, aplicar meus conhecimentos na prática e contribuir em projetos relevantes que resolvem problemas reais de pessoas e empresas.
+Sou estudante de Engenharia de Computação (10º período) na Universidade de Uberaba. Atualmente, trabalho como freelancer em web design e edição de vídeos, ajudando empresas a fortalecerem sua presença digital. Busco um estágio na área de tecnologia para concluir a graduação, aplicar meus conhecimentos na prática e contribuir em projetos relevantes que resolvem problemas reais de pessoas e empresas.
 
 ###
 <div align="center">
