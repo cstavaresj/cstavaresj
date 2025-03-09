@@ -52,10 +52,10 @@ Ex-militar do Exército Brasileiro e estudante de Engenharia de Computação (10
 ###
 
 **`Social`**
-<p align="left">
-<a href="https://twitter.com/cstavaresj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cstavaresj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/cstavaresj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cstavaresj" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cstavaresj)
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B.svg?logo=linktree&logoColor=white)](https://linktr.ee/seu-usuario)
+
 
 
 ###
