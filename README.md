@@ -7,7 +7,7 @@ Ex-militar do Exército Brasileiro e estudante de Engenharia de Computação (10
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cstavaresj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cstavaresj&locale=pt-br&hide_title=false&layout=compact&card_width=300&langs_count=9&theme=gotham&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cstavaresj&locale=pt-br&hide_title=false&layout=compact&card_width=300&langs_count=10&theme=gotham&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 
