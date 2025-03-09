@@ -14,6 +14,7 @@ Ex-militar do Exército Brasileiro e estudante de Engenharia de Computação (10
 
 ###
 
+**`Habilidades e Ferramentas`**
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -50,8 +51,7 @@ Ex-militar do Exército Brasileiro e estudante de Engenharia de Computação (10
 
 ###
 
-<div align="left">
-</div>
+
 
 ###
 
