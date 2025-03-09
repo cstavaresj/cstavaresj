@@ -5,10 +5,6 @@
 Ex-militar do Exército Brasileiro e estudante de Engenharia de Computação (10º período) na Universidade de Uberaba. Atualmente, trabalho como freelancer em web design e edição de vídeos, ajudando empresas a fortalecerem sua presença digital. Busco um estágio na área de tecnologia para concluir a graduação, aplicar meus conhecimentos na prática e contribuir em projetos relevantes que resolvem problemas reais de pessoas e empresas.
 
 
-###
-
-
-
 
 ###
 
@@ -54,16 +50,17 @@ Ex-militar do Exército Brasileiro e estudante de Engenharia de Computação (10
 <div align="left">
 
 <a href="https://www.linkedin.com/in/cstavaresj" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="24" style="margin-right: 8px;" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="24" style="margin-right: 15px; vertical-align: middle;" />
 </a>
 <a href="https://x.com/cstavaresj" target="_blank">
-  <img src="https://img.shields.io/badge/-black.svg?logo=X&logoColor=white&label=" height="24" style="margin-right: 8px;" />
+  <img src="https://img.shields.io/badge/-black.svg?logo=X&logoColor=white&label=" height="24" style="margin-right: 15px; vertical-align: middle;" />
 </a>
 <a href="https://linktr.ee/cstavaresj" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" height="24" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" height="24" style="vertical-align: middle;" />
 </a>
 
 </div>
+
 
 
 
