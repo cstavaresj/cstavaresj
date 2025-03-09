@@ -7,11 +7,7 @@ Ex-militar do Exército Brasileiro e estudante de Engenharia de Computação (10
 
 ###
 
-<div align="left">
 
-[![in](https://img.shields.io/badge/-in-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cstavaresj) [![X](https://img.shields.io/badge/-black.svg?logo=X&logoColor=white)](https://x.com/cstavaresj) [![](https://img.shields.io/badge/-39E09B.svg?logo=linktree&logoColor=white)](https://linktr.ee/cstavaresj)
-
-</div>
 
 
 ###
@@ -55,11 +51,9 @@ Ex-militar do Exército Brasileiro e estudante de Engenharia de Computação (10
 
 **`Social`**
 
-<div align="center">
+<div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cstavaresj)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cstavaresj)  
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B.svg?logo=linktree&logoColor=white)](https://linktr.ee/cstavaresj)  
+[![in](https://img.shields.io/badge/-in-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cstavaresj) [![X](https://img.shields.io/badge/-black.svg?logo=X&logoColor=white)](https://x.com/cstavaresj) [![](https://img.shields.io/badge/-39E09B.svg?logo=linktree&logoColor=white)](https://linktr.ee/cstavaresj)
 
 </div>
 
