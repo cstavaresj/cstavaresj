@@ -9,7 +9,6 @@ Sou estudante de Engenharia de Computação (10º período) na Universidade de U
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cstavaresj&locale=pt-br&hide_title=false&layout=compact&card_width=401&langs_count=12&theme=gotham&hide_border=false" height="250" alt="languages graph"  />
 </div>
 
-
 ###
 
 **`Habilidades e Ferramentas`**
@@ -19,6 +18,8 @@ Sou estudante de Engenharia de Computação (10º período) na Universidade de U
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />  
   <img width="12" />
   <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
   <img width="12" />
