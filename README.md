@@ -6,7 +6,7 @@ Sou estudante de Engenharia de Computação (10º período) na Universidade de U
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cstavaresj&locale=pt-br&hide_title=false&layout=compact&card_width=400&langs_count=12&theme=gotham&hide_border=false" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cstavaresj&locale=pt-br&hide_title=false&layout=compact&card_width=400&langs_count=11&theme=gotham&hide_border=false" height="250" alt="languages graph"  />
 </div>
 
 
