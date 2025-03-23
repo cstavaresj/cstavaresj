@@ -35,6 +35,8 @@ Sou estudante de Engenharia de Computação (10º período) na Universidade de U
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
   <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
