@@ -1,12 +1,16 @@
 # Carlos Soares
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Web`**
 
-Sou estudante de Engenharia de Computação (10º período) na Universidade de Uberaba. Atualmente, trabalho como freelancer em web design e edição de vídeos, ajudando empresas a fortalecerem sua presença digital. Busco um estágio na área de tecnologia para concluir a graduação, aplicar meus conhecimentos na prática e contribuir em projetos relevantes que resolvem problemas reais de pessoas e empresas.
+Sou estudante do 10º período de Engenharia de Computação na Universidade de Uberaba e estou em busca de uma oportunidade de estágio em tecnologia, com foco em desenvolvimento web.
+
+Durante a graduação, desenvolvi uma base sólida em lógica de programação, estruturas de dados, orientação a objetos e resolução de problemas, atuando com linguagens e tecnologias como JavaScript, HTML, CSS, PHP, Python, C#, ASP.NET, Java e SQL. Também trabalhei com integração de APIs, desenvolvimento de aplicações web responsivas e interação com bancos de dados relacionais.
+
+Atualmente, atuo como freelancer em web design e desenvolvimento de soluções web personalizadas, criando desde landing pages para lançamentos até páginas informativas e interfaces interativas. sempre com o objetivo de resolver problemas reais de presença digital e conversão de clientes.
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cstavaresj&locale=pt-br&hide_title=false&layout=compact&card_width=402&langs_count=13&theme=gotham&hide_border=false" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cstavaresj&locale=pt-br&hide_title=false&layout=compact&card_width=402&langs_count=12&theme=gotham&hide_border=false" height="250" alt="languages graph"  />
 </div>
 
 ###
