@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web`**
 
-Sou estudante do 10º período de Engenharia de Computação na Universidade de Uberaba e estou em busca de uma oportunidade de estágio em tecnologia, com foco em desenvolvimento web.
+Sou estudante do Engenharia de Computação e estou em busca de uma oportunidade de estágio em desenvolvimento web.
 
 ###
 <div align="center">
