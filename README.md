@@ -1,8 +1,8 @@
 # Carlos Soares
 
-**`Desenvolvedor Web`**
+**`Desenvolvedor Web Full Stack`**
 
-Sou estudante do Engenharia de Computação e estou em busca de uma oportunidade de estágio em desenvolvimento web.
+Desenvolvedor web Full Stack em busca de uma oportunidade de estágio.
 
 ###
 <div align="center">
