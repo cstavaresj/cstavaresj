@@ -2,11 +2,11 @@
 
 **`Desenvolvedor Web Full Stack`**
 
-Desenvolvedor web Full Stack em busca de uma oportunidade de estágio.
+Desenvolvedor web Full Stack em formação.
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cstavaresj&locale=pt-br&hide_title=false&layout=compact&card_width=402&langs_count=12&theme=gotham&hide_border=false" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cstavaresj&locale=pt-br&hide_title=false&layout=compact&card_width=402&langs_count=8&theme=gotham&hide_border=false" height="250" alt="languages graph"  />
 </div>
 
 ###
