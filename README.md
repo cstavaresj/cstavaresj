@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web Full Stack`**
 
-Desenvolvedor web Full Stack em formação.
+Desenvolvedor, com foco em projetos full stack, integrando o desenvolvimento de interfaces eficientes e bem estruturadas com lógica de back-end, bancos de dados e integração de sistemas.
 
 ###
 <div align="center">
