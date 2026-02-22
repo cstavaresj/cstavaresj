@@ -5,9 +5,7 @@
 Desenvolvedor, com foco em projetos full stack, integrando o desenvolvimento de interfaces eficientes e bem estruturadas com lógica de back-end, bancos de dados e integração de sistemas.
 
 ###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cstavaresj&locale=pt-br&hide_title=false&layout=compact&card_width=402&langs_count=8&theme=gotham&hide_border=false" height="250" alt="languages graph"  />
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=cstavaresj&layout=compact&langs_count=10&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=10&theme=dark)
 
 ###
 
