@@ -6,7 +6,7 @@ Desenvolvedor, com foco em projetos full stack, integrando o desenvolvimento de 
 
 ###
 <div align="center">
-<img src ="https://github-stats-extended.vercel.app/api/top-langs?username=cstavaresj&layout=compact&langs_count=10&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&theme=dark" />
+<img src ="https://github-stats-extended.vercel.app/api/top-langs?username=cstavaresj&layout=compact&langs_count=12&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=12&theme=dark" />
 </div>
 ###
 
