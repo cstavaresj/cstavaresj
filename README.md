@@ -63,9 +63,9 @@ Estou em constante evolução no aprendizado de novas tecnologias, com foco prá
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=cstavaresj&layout=compact&langs_count=10&theme=dark" alt="Linguagens mais utilizadas" />
-  <img width="30" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cstavaresj&theme=dark" alt="Estatísticas de Streak" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=cstavaresj&layout=compact&langs_count=12&theme=dark&custom_title=Linguagens%20Mais%20Usadas" alt="Linguagens mais utilizadas" />
+  <img width="20" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cstavaresj&theme=dark&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly&ring=00C647&fire=00C647&currStreakLabel=00C647&card_height=240" alt="Estatísticas de Streak" />
 </div>
 
 <br clear="both">
