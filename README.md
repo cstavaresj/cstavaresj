@@ -1,12 +1,16 @@
-# Olá, eu sou o Carlos Soares! 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00C647&height=100&section=header"/>
 
-**`🎓 Engenheiro de Computação | Desenvolvedor Web Full Stack`**
+# Olá, eu sou o Carlos Soares!👍
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com/?duration=3000&color=00C647&lines=Engenheiro+de+Computa%C3%A7%C3%A3o;Desenvolvedor+Web+Full+Stack;Desenvolvedor+PHP;Desenvolvedor+PYTHON" />
 
 Atuo no desenvolvimento de soluções full-stack, integrando a criação de interfaces eficientes e bem estruturadas com lógicas complexas de back-end, bancos de dados e integração de sistemas via APIs. 
 
 Neste portfólio, possuo uma diversidade de projetos que inclui **projetos acadêmicos, códigos de estudo e sistemas pessoais**, desenvolvidos em múltiplas linguagens e tecnologias ao longo da minha trajetória profissional e acadêmica.
 
 Estou em constante evolução no aprendizado de novas tecnologias, com foco prático atual no ecossistema de **PHP** e **Python**. Para otimizar a criação de código e a resolução de problemas no dia a dia, integro Inteligência Artificial ao meu fluxo de trabalho, utilizando o auxílio de modelos LLM integrados diretamente às minhas IDEs de desenvolvimento.
+</p>
 
 ---
 
@@ -77,3 +81,5 @@ Estou em constante evolução no aprendizado de novas tecnologias, com foco prá
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cstavaresj/cstavaresj/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00C647&height=100&section=footer"/>
