@@ -36,7 +36,7 @@ Estou em constante evolução no aprendizado de novas tecnologias, com foco prá
 ### 🛠️ Frameworks e Ferramentas
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,flutter,react,tailwind,bootstrap,laravel,django,flask,nodejs,docker,cloudflare,git,github,gitlab,postman,androidstudio,vscode,visualstudio,eclipse,wordpress&theme=light" alt="Ferramentas e Frameworks" />
+  <img src="https://skillicons.dev/icons?i=dotnet,flutter,react,tailwind,bootstrap,laravel,django,flask,nodejs,docker,cloudflare,git,github,gitlab,postman,androidstudio,eclipse,visualstudio,vscode,phpstorm,pycharm,wordpress&theme=light" alt="Ferramentas e Frameworks" />
 </div>
 
 <br>
